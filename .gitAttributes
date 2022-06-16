@@ -1,0 +1,5 @@
+ting_file_management/queue.py -linguist-vendored=false
+ting_file_management/file_process.py -linguist-vendored=false
+ting_file_management/file_management.py -linguist-vendored=false
+ting_word_searches/word_search.py -linguist-vendored=false
+ting_word_searches/word_search.py -linguist-vendored=false
